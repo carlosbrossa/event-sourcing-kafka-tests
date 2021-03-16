@@ -1,0 +1,4 @@
+rootProject.name = 'event-sourcing-kafka-tests'
+include 'kafka-producer'
+include 'kafka-consumer'
+
